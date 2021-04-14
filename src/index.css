@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Montserrat';
+  src:local("Montserrat"), url(./assets/fonts/montserrat.regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: 'Comforta';
+  src:local("Comforta"), url(./assets/fonts/Comfortaa-Regular.ttf) format("truetype");
+}
+
+
+.f70{
+  font-size: 70px;
+}
+.f20{
+  font-size: 20px;
+}
+.f18{
+  font-size: 18px;
+}
+.f23{
+  font-size: 23px;
+}
+.f16{
+  font-size: 16px;
+}
+.f30{
+  font-size: 30px;
+}
+.f15{
+  font-size: 15px;
+}
+.f50{
+  font-size: 50px;
+}
+.f40{
+  font-size: 40px;
+}
+.f25{
+  font-size: 25px;
+}
+.f14{
+  font-size: 17px;
+}

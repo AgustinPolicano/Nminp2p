@@ -1,0 +1,567 @@
+.cardborder{
+    border-radius: 25px;
+    width: 90%;
+    height: 350px;
+    background-color: #FFBA03;
+    background-image: url("../../../assets/imgs/bgconvert2.png");
+    margin: auto;
+ 
+}
+.cardborder1{
+    border-radius: 25px;
+    width: 90%;
+    height: 350px;
+    background-color: #FFBA03;
+    background-image: url("../../../assets/imgs/bg-convert.png");
+    margin: auto;
+    margin-top: 70px;
+}
+.btclogo3{
+    width: 300px;
+    margin-top: -90px;
+}
+.usdtlogo{
+    width: 300px;
+}
+.mtneg{
+    margin-top: -95px;
+}
+.form{
+    width: 140px;
+    margin-left: 10px;
+    font-size: 15px;
+    height: 50px;
+}
+.form1{
+    width: 140px;
+    margin-left: 40px;
+    font-size: 15px;
+    height: 50px;
+}
+
+
+.space{
+    word-spacing: 0px;
+}
+.btctext{
+    margin-right: 200px;
+}
+.converttext{
+    margin-top: -32px;
+    margin-left: 150px;
+}
+.slt1{
+    background-color: #131418;
+    border: none;
+    color: white;
+    font-size: 25px;
+    font-family: "Montserrat";
+    height: 50px;
+    margin-top: 20px;
+    width: 140px;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.slt2{
+    background-color: #131418;
+    border: none;
+    color: white;
+    font-size: 25px;
+    font-family: "Montserrat";
+    height: 50px;
+    margin-top: 20px;
+    width: 140px;
+    border-radius: 5px;
+    padding-left: 10px;
+    margin-left: 40px;
+    
+
+}
+    
+        /* iphone 6, 6s, 7, 8 */
+        @media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+            .form{
+                width: 120px;
+                margin-left: 10px;
+                font-size: 15px;
+                height: 50px;
+            }
+            .form1{
+                width: 120px;
+                margin-left: 40px;
+                font-size: 15px;
+                height: 50px;
+            }
+            .slt1{
+                background-color: #131418;
+                border: none;
+                color: white;
+                font-size: 25px;
+                font-family: "Montserrat";
+                height: 50px;
+                margin-top: 20px;
+                width: 120px;
+                border-radius: 5px;
+                padding-left: 10px;
+                margin-left: 10px;
+            }
+            .slt2{
+                background-color: #131418;
+                border: none;
+                color: white;
+                font-size: 25px;
+                font-family: "Montserrat";
+                height: 50px;
+                margin-top: 20px;
+                width: 120px;
+                border-radius: 5px;
+                padding-left: 10px;
+                margin-left: 40px;
+                
+            
+            }
+                
+        
+
+         }
+            
+     /* iphone 5 */
+     @media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (-webkit-device-pixel-ratio: 2) {
+        .form{
+            width: 100px;
+            margin-left: 10px;
+            font-size: 15px;
+            height: 50px;
+        }
+        .form1{
+            width: 100px;
+            margin-left: 40px;
+            font-size: 15px;
+            height: 50px;
+        }
+        .slt1{
+            background-color: #131418;
+            border: none;
+            color: white;
+            font-size: 25px;
+            font-family: "Montserrat";
+            height: 50px;
+            margin-top: 20px;
+            width: 100px;
+            border-radius: 5px;
+            padding-left: 10px;
+            margin-left: 10px;
+        }
+        .slt2{
+            background-color: #131418;
+            border: none;
+            color: white;
+            font-size: 25px;
+            font-family: "Montserrat";
+            height: 50px;
+            margin-top: 20px;
+            width: 100px;
+            border-radius: 5px;
+            padding-left: 10px;
+            margin-left: 40px;
+            
+        
+        }
+          }
+      
+  
+   /* iphone X , XS, 11 Pro, 12 Mini */
+   @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+    .form{
+        width: 120px;
+        margin-left: 10px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 120px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .slt1{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 120px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 10px;
+    }
+    .slt2{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 120px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 40px;
+        
+    
+    }
+      
+      
+
+    }
+
+
+
+//tablets chicas
+@media screen and (min-width: 620px){
+    .cardborder{
+        border-radius: 25px;
+        width: 70%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bgconvert2.png");
+        margin: auto;
+     
+    }
+    .cardborder1{
+        border-radius: 25px;
+        width: 70%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bg-convert.png");
+        margin: auto;
+        margin-top: 70px;
+    }
+    .btclogo3{
+        width: 300px;
+        margin-top: -90px;
+    }
+    .usdtlogo{
+        width: 300px;
+    }
+    .mtneg{
+        margin-top: -95px;
+    }
+    .form{
+        width: 180px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 180px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    
+    
+    .space{
+        word-spacing: 0px;
+    }
+    .btctext{
+        margin-right: 250px;
+    }
+    .converttext{
+        margin-top: -32px;
+        margin-left: 150px;
+    }
+    .slt1{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 180px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 40px;
+    }
+    .slt2{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 180px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 40px;
+        
+    
+    }
+      
+}
+
+
+//tablets normales y algunas laptops
+@media screen and (min-width: 960px){
+    .cardborder{
+        border-radius: 25px;
+        width: 65%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bgconvert2.png");
+        margin: auto;
+     
+    }
+    .cardborder1{
+        border-radius: 25px;
+        width: 65%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bg-convert.png");
+        margin: auto;
+        margin-top: 70px;
+    }
+    .btclogo3{
+        width: 300px;
+        margin-top: -90px;
+    }
+    .usdtlogo{
+        width: 300px;
+    }
+    .mtneg{
+        margin-top: -95px;
+    }
+    .form{
+        width: 220px;
+        margin-left: 80px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 220px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    
+    
+    .space{
+        word-spacing: 0px;
+    }
+    .btctext{
+        margin-right: 250px;
+    }
+    .converttext{
+        margin-top: -32px;
+        margin-left: 150px;
+    }
+    .slt1{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 220px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 80px;
+    }
+    .slt2{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 220px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 40px;
+        
+    
+    }
+      .f16{
+          font-size: 19px;
+      }
+
+
+}
+
+
+
+
+@media screen and (min-width: 1200px){
+    .cardborder{
+        border-radius: 25px;
+        width: 40%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bgconvert2.png");
+        margin: auto;
+        margin-left: 100px;
+     
+    }
+    .cardborder1{
+        border-radius: 25px;
+        width: 40%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bg-convert.png");
+        margin: auto;
+        margin-top: -350px;
+        margin-right: 75px;
+    }
+    .form{
+        width: 170px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 170px;
+        margin-left: 60px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .slt1{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 170px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 40px;
+    }
+    .slt2{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 170px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 60px;
+        
+    
+    }
+
+
+}
+
+@media screen and (min-width: 1440px){
+    .cardborder{
+        border-radius: 25px;
+        width: 35%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bgconvert2.png");
+        margin: auto;
+        margin-left: 100px;
+     
+    }
+    .cardborder1{
+        border-radius: 25px;
+        width: 35%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bg-convert.png");
+        margin: auto;
+        margin-top: -350px;
+        margin-right: 200px;
+    }
+    .form{
+        width: 170px;
+        margin-left: 40px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 170px;
+        margin-left: 60px;
+        font-size: 15px;
+        height: 50px;
+    }
+
+      
+      
+}
+@media screen and (min-width: 1920px) {
+    .cardborder{
+        border-radius: 25px;
+        width: 35%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bgconvert2.png");
+        margin: auto;
+        margin-left: 200px;
+     
+    }
+    .txtcalculadora{
+        margin-top: 200px;
+    }
+    .cardborder1{
+        border-radius: 25px;
+        width: 35%;
+        height: 350px;
+        background-color: #FFBA03;
+        background-image: url("../../../assets/imgs/bg-convert.png");
+        margin: auto;
+        margin-top: -350px;
+        margin-right: 250px;
+    }
+    .form{
+        width: 220px;
+        margin-left: 80px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .form1{
+        width: 220px;
+        margin-left: 60px;
+        font-size: 15px;
+        height: 50px;
+    }
+    .slt1{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 220px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 80px;
+    }
+    .slt2{
+        background-color: #131418;
+        border: none;
+        color: white;
+        font-size: 25px;
+        font-family: "Montserrat";
+        height: 50px;
+        margin-top: 20px;
+        width: 220px;
+        border-radius: 5px;
+        padding-left: 10px;
+        margin-left: 60px;
+        
+    
+    }
+    }

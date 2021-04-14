@@ -1,0 +1,3 @@
+amarillo: #FFBA03
+gris: #343434
+blanco: #ffffff

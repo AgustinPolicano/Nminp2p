@@ -1,0 +1,57 @@
+
+   .f14{
+    font-family: "Montserrat";
+   }
+    
+  
+ 
+    .bgfaq{
+        color: #f9f9f9;
+        background-color: #1E2126;
+        font-family: "Comforta";
+        border-radius: 20px;
+        font-size: 20px;
+        position: relative;
+        margin: auto;
+      margin-top: 30px;
+      width: 70%;
+    }
+
+    .titulofaq{
+      margin-top: 75px;
+    }
+
+    @media screen and (min-width: 960px){
+      .bgfaq{
+        color: #f9f9f9;
+        background-color: #1E2126;
+        font-family: "Comforta";
+        border-radius: 20px;
+        font-size: 25px;
+        position: relative;
+        margin: auto;
+      margin-top: 30px;
+      width: 70%;
+    }
+    
+   .f14{
+    font-size: 20px;
+   }
+    
+    }
+    @media screen and (min-width: 1200px){
+      .titulofaq{
+        margin-top: -350px;
+      }
+      .bgfaq{
+        color: #f9f9f9;
+        background-color: #1E2126;
+        font-family: "Comforta";
+        border-radius: 20px;
+        font-size: 25px;
+        position: relative;
+        margin: auto;
+      margin-top: 30px;
+      width: 50%;
+      }
+    }

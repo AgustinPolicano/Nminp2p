@@ -1,0 +1,104 @@
+.mapfix{
+    margin-top: 100px;
+    margin-left: 75px;
+    }
+    .emailogo{
+        width: 50px;
+        margin-left: 0px;
+    }
+    .telegramlogo{
+        width: 80px;
+        margin-left: 25px;
+    }
+    .facebooklogo{
+        width: 40px;
+        margin-left: 25px;
+    }
+    .f20{
+        font-size: 23px;
+    }
+    .hoverdoc:hover{
+        color: black;
+    }
+    .emailogo:hover{
+        opacity: 0.5;
+    }
+    .telegramlogo:hover{
+        opacity: 0.5;
+    }
+    .facebooklogo:hover{
+        opacity: 0.5;
+    }
+    @media screen and (min-width: 620px){
+        .mapfix{
+         
+            margin-left: 140px;
+            }
+    
+            .f20{
+                font-size: 27px;
+            }
+    }
+    
+    
+    //tablets normales y algunas laptops
+    @media screen and (min-width: 960px){
+        .mapfix{
+         
+            margin-left: 180px;
+            }
+            .f20{
+                font-size: 25px;
+            }
+            .f40{
+                font-size: 50px;
+            }
+    
+    }
+    
+    @media screen and (min-width: 1200px){
+    
+        .mapfix{
+            margin-left: 0px;
+           margin-top: 100px;
+        }
+        .txtmapa{
+            margin-left: 850px; 
+             position: relative;
+             top: -550px;
+         }
+         .f20{
+            font-size: 24px;
+        }
+        .f40{
+            font-size: 43px;
+        }
+    }
+    
+    @media screen and (min-width: 1440px){
+    
+        .mapfix{
+            margin-left: 0px;
+           margin-top: 100px;
+        }
+        .txtmapa{
+           margin-left: 900px; 
+            position: relative;
+            top: -700px;
+        }
+        .f20{
+            font-size: 24px;
+        }
+        .f40{
+            font-size: 43px;
+        }
+    }
+    
+    @media screen and (min-width: 1920px) {
+        .txtmapa{
+            margin-left: 1100px; 
+             position: relative;
+             top: -700px;
+         }
+    
+    }

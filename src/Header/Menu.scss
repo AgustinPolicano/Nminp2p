@@ -1,0 +1,37 @@
+.bg_image{
+    background-image: url("../assets/imgs/bg-2.png");
+    height: 800px;
+}
+
+
+h8:hover{
+    opacity: 1;
+    color: #FFBA03;
+    }
+h8{
+    font-family: "Montserrat";
+    cursor: pointer;
+}
+
+
+
+ 
+
+
+//tablets chicas
+@media screen and (min-width: 620px){
+
+}
+
+
+//tablets normales y algunas laptops
+@media screen and (min-width: 960px){
+    
+}
+
+
+
+// pc escritorios
+@media screen and (min-width: 1200px){
+    
+}
